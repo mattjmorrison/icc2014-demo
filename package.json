@@ -1,0 +1,10 @@
+{
+    "name": "icc",
+    "dependencies": {
+        "testem": "*",
+        "bower": "*"
+    },
+    "scripts": {
+        "postinstall": "bower install"
+    }
+}
